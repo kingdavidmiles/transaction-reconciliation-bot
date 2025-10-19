@@ -1,0 +1,4 @@
+tx_id,amount,status,currency,created_at
+TX1001,1000,success,NGN,2025-10-18
+TX1002,1500,success,NGN,2025-10-18
+TX1004,2500,success,NGN,2025-10-18

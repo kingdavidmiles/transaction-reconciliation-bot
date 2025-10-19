@@ -1,0 +1,12 @@
+pandas
+requests
+python-dotenv
+sqlalchemy
+pymongo
+openpyxl
+schedule
+openai
+colorama
+schedule
+dotenv
+slack-sdk
