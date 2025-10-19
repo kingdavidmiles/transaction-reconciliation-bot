@@ -85,7 +85,7 @@ Reports can be sent to **Slack**, saved as **CSV**, or logged locally.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/transaction-reconciliation-bot.git
+git clone https://github.com/kingdavidmiles/transaction-reconciliation-bot
 cd transaction-reconciliation-bot
 ```
 
@@ -306,7 +306,7 @@ GATEWAY_MAPPINGS = {
 ## 💬 Support
 
 If you run into issues:
-- Open an issue on [GitHub Issues](https://github.com/your-username/transaction-reconciliation-bot/issues)
+- Open an issue on [GitHub Issues](https://github.com/kingdavidmiles/transaction-reconciliation-bot/issues)
 - Or message via Slack integration
 
 ---
